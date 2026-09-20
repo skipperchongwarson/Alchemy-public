@@ -1,0 +1,17 @@
+{
+  "format": "markdown",
+  "base_profile": "markdown",
+  "fail_on": "hard",
+  "max_auto_risk": "low",
+  "check_quotes": false,
+  "allowed_terms": [
+    "transparent"
+  ],
+  "allowed_patterns": [
+    "physical landscape"
+  ],
+  "disabled_rules": [],
+  "severity_overrides": {
+    "VD_NUMBER_WORD": "light"
+  }
+}

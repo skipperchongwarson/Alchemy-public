@@ -1,0 +1,23 @@
+{
+  "format": "auto",
+  "base_profile": "markdown",
+  "fail_on": "hard",
+  "max_auto_risk": "low",
+  "check_quotes": false,
+  "allowed_terms": [],
+  "allowed_patterns": [],
+  "disabled_rules": [],
+  "severity_overrides": {
+    "VD_NUMBER_WORD": "light",
+    "VD_EM_DASH": "strong",
+    "EMDASH_PAIRED_PARENTHETICAL": "strong",
+    "EMDASH_INDEPENDENT_CLAUSES": "strong",
+    "EMDASH_APPOSITIONAL": "strong",
+    "EMDASH_INTERRUPTION": "strong",
+    "EMDASH_LIST_INTRODUCTION": "strong",
+    "EMDASH_ATTRIBUTION": "strong",
+    "EMDASH_NUMERIC_RANGE": "strong",
+    "EMDASH_AMBIGUOUS": "strong"
+  },
+  "notes": "Add deliberate exceptions here. Keep the core rule set unchanged."
+}

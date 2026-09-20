@@ -1,0 +1,78 @@
+{
+  "base_rules": 385,
+  "files": [
+    {
+      "bytes": 903,
+      "path": "PROMPT.md",
+      "sha256": "789cbb38e3c044b2e3daf43a4ff740f368516e167a766c143fb620a04a0082e4"
+    },
+    {
+      "bytes": 6024,
+      "path": "README.md",
+      "sha256": "44bfea98ba0e89fc9123d5ec4ea104d86791335908bcdb803fa7a67a1d1c62a3"
+    },
+    {
+      "bytes": 3715,
+      "path": "SYSTEM-DESIGN.md",
+      "sha256": "bbc4b23204f1906a5bcd87ba8ddbe69679d23811a4894546c28ac413c01eaf87"
+    },
+    {
+      "bytes": 10771,
+      "path": "VOICE-DNA.md",
+      "sha256": "730779a1caaf574daed077ad3c8dbab45776c339ed7ec12bad1f197859c4fe9c"
+    },
+    {
+      "bytes": 314,
+      "path": "examples/auto-refined.md",
+      "sha256": "83d0dd4a5a1d54ad686d57a543ad432a7b988f70d452ae489e883f51a831fc9d"
+    },
+    {
+      "bytes": 323,
+      "path": "examples/before.md",
+      "sha256": "05d291103bf0b6de9d9c8d5ededd6918901c816c7d9b15172b9f637111f7cb08"
+    },
+    {
+      "bytes": 598,
+      "path": "examples/github-actions.yml",
+      "sha256": "0426706b7191c4d6e09a453d3c3c3bf96ac081b10dfcc218715908b6370e70c1"
+    },
+    {
+      "bytes": 312,
+      "path": "examples/project-config.json",
+      "sha256": "c1af73b3dbfeb61e37cb53da0a5af64082dbe6f06019758f5a56384d821049a9"
+    },
+    {
+      "bytes": 18797,
+      "path": "examples/sample-report.json",
+      "sha256": "49057ed204694bcd8945e94b0a64ecc66b4e799530ef5f9396c2194bf74a117d"
+    },
+    {
+      "bytes": 3907,
+      "path": "examples/sample-report.md",
+      "sha256": "3c3eb32032cfb7bd14faa9f68859c24d9f8014eb385ff0889855a5498600fc8e"
+    },
+    {
+      "bytes": 153771,
+      "path": "llm_copy_refiner.py",
+      "sha256": "40842e791211bc4d2878455abd95512aebecbb782a752b095e14a2262ffcbea0"
+    },
+    {
+      "bytes": 306,
+      "path": "voice-dna-config.json",
+      "sha256": "6a82f80286da5aa5cd165f41e9bea66b86c22262b33e8f4b296a0f9de1bc25ce"
+    },
+    {
+      "bytes": 64885,
+      "path": "voice_dna_refiner.py",
+      "sha256": "b29750c805f7c3308acee5a029282d04cb42bbf487287b01d9d9142201b12485"
+    }
+  ],
+  "package": "voice_dna_system",
+  "python": "standard library only",
+  "tests": {
+    "base": 42,
+    "voice_layer": 14
+  },
+  "version": "1.0.0",
+  "voice_rules": 204
+}
