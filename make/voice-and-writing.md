@@ -18,6 +18,14 @@ Skipper Chong Warson — product strategist and designer, nearly 15 years experi
 **Branding**  
 * How This Works co — exactly this, no period after co  
 * How This Works show — lowercase s  
+* Bullseye Customer Sprint — always capitalised  
+* Listening Cycles — always capitalised  
+* Clear Path Forward — always capitalised  
+* Design Sprint 2.0 — always capitalised  
+* Getting Unstuck — always capitalised  
+* Goals That Stick — always capitalised  
+* 1-Hour Power Hour — always capitalised  
+* Positioning Sprint — always capitalised  
   
 ## Words to flag and reduce  
 95% elimination — not autocorrect. Flag them, challenge them, replace when lazy. Occasionally one earns its place.  

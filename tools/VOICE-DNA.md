@@ -2,7 +2,7 @@
 
 Reusable linting and editorial-review support for Skipper’s writing voice.
 
-Project-specific governing files take priority. In Make, `make/voice-and-writing.md` governs style and mechanics. Other projects have their own governing files for strategy, relationship judgment, and calibration.
+Project-specific governing files take priority. In Make, `make/voice-and-writing.md` governs style and mechanics. In Biz dev, `biz-dev/two-motions.md` governs outreach strategy and relationship judgment, with `biz-dev/outreach-voice-samples.md` used for calibration.
 
 Apply this file with judgment. It does not override project-specific instructions.
 

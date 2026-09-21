@@ -78,7 +78,10 @@ Examples and performance references do not override governing files.
 
 - `shared/ai-collaboration-profile.md` governs cross-project collaboration.
 - `reference/` supplies current factual information about Skipper and HTWco.
+- `htwco/` supplies current business methods and offer logic.
 - `tools/` contains optional implementation and linting support.
+- `library/` contains outside source material and is not governing.
+- `archive/` is superseded material and must not be treated as current.
 
 ## Source discipline
 
